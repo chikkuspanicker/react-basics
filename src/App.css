@@ -1,0 +1,17 @@
+.pink {
+  background-color: #e91e63 !important;
+}
+
+.navbar-nav>li {
+  float: left;
+  min-width: 150px;
+  font-size: 20px; 
+  padding: 10px; 
+}
+.navbar-nav a {
+  color: white;
+}
+
+.navbar-nav {
+  list-style: none;
+}
